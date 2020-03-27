@@ -8,5 +8,11 @@ namespace PIS_vjezba1
 {
     class NewClass
     {
+        //nova klasa
+        static void MyMethod()
+        {
+            Console.WriteLine("Hello World!");
+        }
+        
     }
 }
