@@ -8,5 +8,6 @@ namespace PIS_vjezba1
 {
     class NewClass
     {
+        //dodaj metodu
     }
 }
